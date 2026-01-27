@@ -1,5 +1,5 @@
 // Update this with your actual API Gateway endpoint
-const API_URL = "https://k674p77rue.execute-api.eu-central-1.amazonaws.com/applications";
+const API_URL = "https://1poxzxjzeh.execute-api.eu-central-1.amazonaws.com/applications";
 
 // State management
 let applications = [];
@@ -515,4 +515,5 @@ function handleSwipe() {
       scrollCarousel(-1);
     }
   }
+
 }
